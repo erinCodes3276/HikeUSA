@@ -1,8 +1,8 @@
 import csv
 import json
 
-campsites = 'static/clean_camps.csv'
-trails = 'static/clean_trails.csv'
+campsites = 'HikeUSA/static/clean_camps.csv'
+trails = 'HikeUSA/static/clean_trails.csv'
 trails_js = 'trails.json'
 camp_js = 'camps.json'
 

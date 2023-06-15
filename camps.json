@@ -1,6 +1,7 @@
 [
     {
         "": "0",
+        "Unnamed: 0": "0",
         "longitude": "-73.423",
         "latitude": "44.568",
         "code": "AUSA",
@@ -8,10 +9,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "E",
-        "city": "Peru"
+        "city": "Peru",
+        "geometry": "POINT (-73.423 44.568)"
     },
     {
         "": "1",
+        "Unnamed: 0": "1",
         "longitude": "-76.807",
         "latitude": "42.485",
         "code": "BACK",
@@ -19,10 +22,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "NE",
-        "city": "Burdett"
+        "city": "Burdett",
+        "geometry": "POINT (-76.807 42.485)"
     },
     {
         "": "2",
+        "Unnamed: 0": "2",
         "longitude": "-73.449",
         "latitude": "40.762",
         "code": "BATT",
@@ -30,10 +35,12 @@
         "state": "NY",
         "nearest_town_distance": "0",
         "nearest_town_bearing": "E",
-        "city": "Old Bethpage"
+        "city": "Old Bethpage",
+        "geometry": "POINT (-73.449 40.762)"
     },
     {
         "": "3",
+        "Unnamed: 0": "3",
         "longitude": "-75.069",
         "latitude": "42.118",
         "code": "BEAR",
@@ -41,10 +48,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "SE",
-        "city": "Walton"
+        "city": "Walton",
+        "geometry": "POINT (-75.069 42.118)"
     },
     {
         "": "4",
+        "Unnamed: 0": "4",
         "longitude": "-74.07",
         "latitude": "41.229",
         "code": "BEVP",
@@ -52,10 +61,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "W",
-        "city": "Stony Point"
+        "city": "Stony Point",
+        "geometry": "POINT (-74.07 41.229)"
     },
     {
         "": "5",
+        "Unnamed: 0": "5",
         "longitude": "-74.839",
         "latitude": "41.979",
         "code": "BEVK",
@@ -63,10 +74,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "NE",
-        "city": "Roscoe"
+        "city": "Roscoe",
+        "geometry": "POINT (-74.839 41.979)"
     },
     {
         "": "6",
+        "Unnamed: 0": "6",
         "longitude": "-73.925",
         "latitude": "41.27",
         "code": "BLUE",
@@ -74,10 +87,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "S",
-        "city": "Peekskill"
+        "city": "Peekskill",
+        "geometry": "POINT (-73.925 41.27)"
     },
     {
         "": "7",
+        "Unnamed: 0": "7",
         "longitude": "-76.799",
         "latitude": "42.484",
         "code": "BLUB",
@@ -85,10 +100,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "NE",
-        "city": "Burdett"
+        "city": "Burdett",
+        "geometry": "POINT (-76.799 42.484)"
     },
     {
         "": "8",
+        "Unnamed: 0": "8",
         "longitude": "-73.222",
         "latitude": "40.825",
         "code": "BLYD",
@@ -96,10 +113,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SW",
-        "city": "Smithtown"
+        "city": "Smithtown",
+        "geometry": "POINT (-73.222 40.825)"
     },
     {
         "": "9",
+        "Unnamed: 0": "9",
         "longitude": "-75.68",
         "latitude": "42.522",
         "code": "BOWM",
@@ -107,10 +126,12 @@
         "state": "NY",
         "nearest_town_distance": "7",
         "nearest_town_bearing": "NW",
-        "city": "Oxford"
+        "city": "Oxford",
+        "geometry": "POINT (-75.68 42.522)"
     },
     {
         "": "10",
+        "Unnamed: 0": "10",
         "longitude": "-74.118",
         "latitude": "44.505",
         "code": "BUCK",
@@ -118,10 +139,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "NE",
-        "city": "Gabriels"
+        "city": "Gabriels",
+        "geometry": "POINT (-74.118 44.505)"
     },
     {
         "": "11",
+        "Unnamed: 0": "11",
         "longitude": "-76.265",
         "latitude": "44.163",
         "code": "BURN",
@@ -129,10 +152,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "NE",
-        "city": "Cape Vincent"
+        "city": "Cape Vincent",
+        "geometry": "POINT (-76.265 44.163)"
     },
     {
         "": "12",
+        "Unnamed: 0": "12",
         "longitude": "-76.521",
         "latitude": "42.416",
         "code": "BUTT",
@@ -140,10 +165,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SW",
-        "city": "Ithaca"
+        "city": "Ithaca",
+        "geometry": "POINT (-76.521 42.416)"
     },
     {
         "": "13",
+        "Unnamed: 0": "13",
         "longitude": "-78.846",
         "latitude": "42.037",
         "code": "CAIN",
@@ -151,10 +178,12 @@
         "state": "NY",
         "nearest_town_distance": "11",
         "nearest_town_bearing": "SW",
-        "city": "Salamanca"
+        "city": "Salamanca",
+        "geometry": "POINT (-78.846 42.037)"
     },
     {
         "": "14",
+        "Unnamed: 0": "14",
         "longitude": "-74.468",
         "latitude": "43.125",
         "code": "CARO",
@@ -162,10 +191,12 @@
         "state": "NY",
         "nearest_town_distance": "10",
         "nearest_town_bearing": "NW",
-        "city": "Johnstown"
+        "city": "Johnstown",
+        "geometry": "POINT (-74.468 43.125)"
     },
     {
         "": "15",
+        "Unnamed: 0": "15",
         "longitude": "-72.943",
         "latitude": "40.87",
         "code": "CATH",
@@ -173,10 +204,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "S",
-        "city": "Middle Island"
+        "city": "Middle Island",
+        "geometry": "POINT (-72.943 40.87)"
     },
     {
         "": "16",
+        "Unnamed: 0": "16",
         "longitude": "-76.753",
         "latitude": "42.896",
         "code": "CAYU",
@@ -184,10 +217,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SE",
-        "city": "Seneca Falls"
+        "city": "Seneca Falls",
+        "geometry": "POINT (-76.753 42.896)"
     },
     {
         "": "17",
+        "Unnamed: 0": "17",
         "longitude": "-76.197",
         "latitude": "44.204",
         "code": "CEDP",
@@ -195,10 +230,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "SW",
-        "city": "Clayton"
+        "city": "Clayton",
+        "geometry": "POINT (-76.197 44.204)"
     },
     {
         "": "18",
+        "Unnamed: 0": "18",
         "longitude": "-72.226",
         "latitude": "41.028",
         "code": "CEDS",
@@ -206,10 +243,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "NW",
-        "city": "East Hampton"
+        "city": "East Hampton",
+        "geometry": "POINT (-72.226 41.028)"
     },
     {
         "": "19",
+        "Unnamed: 0": "19",
         "longitude": "-75.818",
         "latitude": "42.215",
         "code": "CHEN",
@@ -217,10 +256,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SE",
-        "city": "Chenango Forks"
+        "city": "Chenango Forks",
+        "geometry": "POINT (-75.818 42.215)"
     },
     {
         "": "20",
+        "Unnamed: 0": "20",
         "longitude": "-73.41",
         "latitude": "42.622",
         "code": "CHER",
@@ -228,10 +269,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "W",
-        "city": "Cherry Plain"
+        "city": "Cherry Plain",
+        "geometry": "POINT (-73.41 42.622)"
     },
     {
         "": "21",
+        "Unnamed: 0": "21",
         "longitude": "-73.831",
         "latitude": "41.461",
         "code": "CLAR",
@@ -239,10 +282,12 @@
         "state": "NY",
         "nearest_town_distance": "8",
         "nearest_town_bearing": "W",
-        "city": "Carmel"
+        "city": "Carmel",
+        "geometry": "POINT (-73.831 41.461)"
     },
     {
         "": "22",
+        "Unnamed: 0": "22",
         "longitude": "-76.86",
         "latitude": "42.384",
         "code": "CLUT",
@@ -250,10 +295,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "E",
-        "city": "Watkins Glen"
+        "city": "Watkins Glen",
+        "geometry": "POINT (-76.86 42.384)"
     },
     {
         "": "23",
+        "Unnamed: 0": "23",
         "longitude": "-75.14",
         "latitude": "44.892",
         "code": "COLE",
@@ -261,10 +308,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "NE",
-        "city": "Waddington"
+        "city": "Waddington",
+        "geometry": "POINT (-75.14 44.892)"
     },
     {
         "": "24",
+        "Unnamed: 0": "24",
         "longitude": "-75.743",
         "latitude": "42.3",
         "code": "COOK",
@@ -272,10 +321,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SE",
-        "city": "Greene"
+        "city": "Greene",
+        "geometry": "POINT (-75.743 42.3)"
     },
     {
         "": "25",
+        "Unnamed: 0": "25",
         "longitude": "-73.52",
         "latitude": "42.121",
         "code": "COPA",
@@ -283,10 +334,12 @@
         "state": "NY",
         "nearest_town_distance": "0",
         "nearest_town_bearing": "E",
-        "city": "Copake Falls"
+        "city": "Copake Falls",
+        "geometry": "POINT (-73.52 42.121)"
     },
     {
         "": "26",
+        "Unnamed: 0": "26",
         "longitude": "-74.821",
         "latitude": "44.197",
         "code": "CRAN",
@@ -294,10 +347,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SE",
-        "city": "Cranberry Lake"
+        "city": "Cranberry Lake",
+        "geometry": "POINT (-74.821 44.197)"
     },
     {
         "": "27",
+        "Unnamed: 0": "27",
         "longitude": "-73.896",
         "latitude": "41.178",
         "code": "CROT",
@@ -305,10 +360,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "S",
-        "city": "Croton-on-Huds"
+        "city": "Croton-on-Huds",
+        "geometry": "POINT (-73.896 41.178)"
     },
     {
         "": "28",
+        "Unnamed: 0": "28",
         "longitude": "-73.425",
         "latitude": "44.025",
         "code": "CROW",
@@ -316,10 +373,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "N",
-        "city": "Crown Point"
+        "city": "Crown Point",
+        "geometry": "POINT (-73.425 44.025)"
     },
     {
         "": "29",
+        "Unnamed: 0": "29",
         "longitude": "-73.426",
         "latitude": "44.725",
         "code": "CUMB",
@@ -327,10 +386,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "NE",
-        "city": "Plattsburg"
+        "city": "Plattsburg",
+        "geometry": "POINT (-73.426 44.725)"
     },
     {
         "": "30",
+        "Unnamed: 0": "30",
         "longitude": "-72.738",
         "latitude": "40.771",
         "code": "CUPS",
@@ -338,10 +399,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "SW",
-        "city": "Westhampton"
+        "city": "Westhampton",
+        "geometry": "POINT (-72.738 40.771)"
     },
     {
         "": "31",
+        "Unnamed: 0": "31",
         "longitude": "-78.433",
         "latitude": "42.902",
         "code": "DARI",
@@ -349,10 +412,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "W",
-        "city": "Darien Center"
+        "city": "Darien Center",
+        "geometry": "POINT (-78.433 42.902)"
     },
     {
         "": "32",
+        "Unnamed: 0": "32",
         "longitude": "-75.417",
         "latitude": "43.292",
         "code": "DELT",
@@ -360,10 +425,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "N",
-        "city": "Rome"
+        "city": "Rome",
+        "geometry": "POINT (-75.417 43.292)"
     },
     {
         "": "33",
+        "Unnamed: 0": "33",
         "longitude": "-74.208",
         "latitude": "42.151",
         "code": "DEVI",
@@ -371,10 +438,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "NE",
-        "city": "Lanesville"
+        "city": "Lanesville",
+        "geometry": "POINT (-74.208 42.151)"
     },
     {
         "": "34",
+        "Unnamed: 0": "34",
         "longitude": "-75.997",
         "latitude": "44.33",
         "code": "DEWO",
@@ -382,10 +451,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "N",
-        "city": "Fineview"
+        "city": "Fineview",
+        "geometry": "POINT (-75.997 44.33)"
     },
     {
         "": "35",
+        "Unnamed: 0": "35",
         "longitude": "-73.793",
         "latitude": "43.748",
         "code": "EAGL",
@@ -393,10 +464,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "NE",
-        "city": "Pottersville"
+        "city": "Pottersville",
+        "geometry": "POINT (-73.793 43.748)"
     },
     {
         "": "36",
+        "Unnamed: 0": "36",
         "longitude": "-75.223",
         "latitude": "42.327",
         "code": "EAST",
@@ -404,10 +477,12 @@
         "state": "NY",
         "nearest_town_distance": "9",
         "nearest_town_bearing": "E",
-        "city": "Sidney"
+        "city": "Sidney",
+        "geometry": "POINT (-75.223 42.327)"
     },
     {
         "": "37",
+        "Unnamed: 0": "37",
         "longitude": "-75.477",
         "latitude": "44.63",
         "code": "EELW",
@@ -415,10 +490,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "S",
-        "city": "Ogdensburg"
+        "city": "Ogdensburg",
+        "geometry": "POINT (-75.477 44.63)"
     },
     {
         "": "38",
+        "Unnamed: 0": "38",
         "longitude": "-74.712",
         "latitude": "43.763",
         "code": "EIGH",
@@ -426,10 +503,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "E",
-        "city": "Inlet"
+        "city": "Inlet",
+        "geometry": "POINT (-74.712 43.763)"
     },
     {
         "": "39",
+        "Unnamed: 0": "39",
         "longitude": "-79.115",
         "latitude": "42.602",
         "code": "EVAN",
@@ -437,10 +516,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "N",
-        "city": "Irving"
+        "city": "Irving",
+        "geometry": "POINT (-79.115 42.602)"
     },
     {
         "": "40",
+        "Unnamed: 0": "40",
         "longitude": "-76.689",
         "latitude": "43.343",
         "code": "FAIR",
@@ -448,10 +529,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "N",
-        "city": "Fair Haven"
+        "city": "Fair Haven",
+        "geometry": "POINT (-76.689 43.343)"
     },
     {
         "": "41",
+        "Unnamed: 0": "41",
         "longitude": "-76.42",
         "latitude": "42.7",
         "code": "FILL",
@@ -459,10 +542,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "S",
-        "city": "Moravia"
+        "city": "Moravia",
+        "geometry": "POINT (-76.42 42.7)"
     },
     {
         "": "42",
+        "Unnamed: 0": "42",
         "longitude": "-74.365",
         "latitude": "44.308",
         "code": "FISH",
@@ -470,10 +555,12 @@
         "state": "NY",
         "nearest_town_distance": "8",
         "nearest_town_bearing": "NE",
-        "city": "Tupper Lake"
+        "city": "Tupper Lake",
+        "geometry": "POINT (-74.365 44.308)"
     },
     {
         "": "43",
+        "Unnamed: 0": "43",
         "longitude": "-73.889",
         "latitude": "40.582",
         "code": "FLOB",
@@ -481,10 +568,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "SE",
-        "city": "Brooklyn"
+        "city": "Brooklyn",
+        "geometry": "POINT (-73.889 40.582)"
     },
     {
         "": "44",
+        "Unnamed: 0": "44",
         "longitude": "-74.525",
         "latitude": "43.905",
         "code": "FORK",
@@ -492,10 +581,12 @@
         "state": "NY",
         "nearest_town_distance": "7",
         "nearest_town_bearing": "SW",
-        "city": "Long Lake"
+        "city": "Long Lake",
+        "geometry": "POINT (-74.525 43.905)"
     },
     {
         "": "45",
+        "Unnamed: 0": "45",
         "longitude": "-74.059",
         "latitude": "40.605",
         "code": "FORW",
@@ -503,10 +594,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "E",
-        "city": "Staten Island"
+        "city": "Staten Island",
+        "geometry": "POINT (-74.059 40.605)"
     },
     {
         "": "46",
+        "Unnamed: 0": "46",
         "longitude": "-78.995",
         "latitude": "43.274",
         "code": "FOUR",
@@ -514,10 +607,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "NE",
-        "city": "Youngstown"
+        "city": "Youngstown",
+        "geometry": "POINT (-78.995 43.274)"
     },
     {
         "": "47",
+        "Unnamed: 0": "47",
         "longitude": "-75.128",
         "latitude": "42.573",
         "code": "GILB",
@@ -525,10 +620,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "NW",
-        "city": "Laurens"
+        "city": "Laurens",
+        "geometry": "POINT (-75.128 42.573)"
     },
     {
         "": "48",
+        "Unnamed: 0": "48",
         "longitude": "-74.869",
         "latitude": "42.794",
         "code": "GLIM",
@@ -536,10 +633,12 @@
         "state": "NY",
         "nearest_town_distance": "7",
         "nearest_town_bearing": "NE",
-        "city": "Cooperstown"
+        "city": "Cooperstown",
+        "geometry": "POINT (-74.869 42.794)"
     },
     {
         "": "49",
+        "Unnamed: 0": "49",
         "longitude": "-74.592",
         "latitude": "43.817",
         "code": "GOLB",
@@ -547,10 +646,12 @@
         "state": "NY",
         "nearest_town_distance": "26",
         "nearest_town_bearing": "N",
-        "city": "Piseco"
+        "city": "Piseco",
+        "geometry": "POINT (-74.592 43.817)"
     },
     {
         "": "50",
+        "Unnamed: 0": "50",
         "longitude": "-78.483",
         "latitude": "43.374",
         "code": "GOLH",
@@ -558,10 +659,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "NE",
-        "city": "Barker"
+        "city": "Barker",
+        "geometry": "POINT (-78.483 43.374)"
     },
     {
         "": "51",
+        "Unnamed: 0": "51",
         "longitude": "-75.995",
         "latitude": "44.279",
         "code": "GRAS",
@@ -569,10 +672,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "SW",
-        "city": "Alexandria Bay"
+        "city": "Alexandria Bay",
+        "geometry": "POINT (-75.995 44.279)"
     },
     {
         "": "52",
+        "Unnamed: 0": "52",
         "longitude": "-76.005",
         "latitude": "43.056",
         "code": "GREE",
@@ -580,10 +685,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "N",
-        "city": "Fayetteville"
+        "city": "Fayetteville",
+        "geometry": "POINT (-76.005 43.056)"
     },
     {
         "": "53",
+        "Unnamed: 0": "53",
         "longitude": "-76.086",
         "latitude": "42.288",
         "code": "GREW",
@@ -591,10 +698,12 @@
         "state": "NY",
         "nearest_town_distance": "16",
         "nearest_town_bearing": "NW",
-        "city": "Binghamton"
+        "city": "Binghamton",
+        "geometry": "POINT (-76.086 42.288)"
     },
     {
         "": "54",
+        "Unnamed: 0": "54",
         "longitude": "-77.946",
         "latitude": "43.36",
         "code": "HAML",
@@ -602,10 +711,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "N",
-        "city": "Hamlin"
+        "city": "Hamlin",
+        "geometry": "POINT (-77.946 43.36)"
     },
     {
         "": "55",
+        "Unnamed: 0": "55",
         "longitude": "-76.831",
         "latitude": "42.337",
         "code": "HAVA",
@@ -613,10 +724,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "SE",
-        "city": "Montour Falls"
+        "city": "Montour Falls",
+        "geometry": "POINT (-76.831 42.337)"
     },
     {
         "": "56",
+        "Unnamed: 0": "56",
         "longitude": "-73.694",
         "latitude": "43.455",
         "code": "HEAR",
@@ -624,10 +737,12 @@
         "state": "NY",
         "nearest_town_distance": "9",
         "nearest_town_bearing": "N",
-        "city": "Lake George Vi"
+        "city": "Lake George Vi",
+        "geometry": "POINT (-73.694 43.455)"
     },
     {
         "": "57",
+        "Unnamed: 0": "57",
         "longitude": "-76.226",
         "latitude": "42.091",
         "code": "HICK",
@@ -635,10 +750,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SE",
-        "city": "Owego"
+        "city": "Owego",
+        "geometry": "POINT (-76.226 42.091)"
     },
     {
         "": "58",
+        "Unnamed: 0": "58",
         "longitude": "-74.922",
         "latitude": "44.496",
         "code": "HIGL",
@@ -646,10 +763,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "S",
-        "city": "Colton"
+        "city": "Colton",
+        "geometry": "POINT (-74.922 44.496)"
     },
     {
         "": "59",
+        "Unnamed: 0": "59",
         "longitude": "-72.016",
         "latitude": "41.008",
         "code": "HITH",
@@ -657,10 +776,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "SW",
-        "city": "Montauk"
+        "city": "Montauk",
+        "geometry": "POINT (-72.016 41.008)"
     },
     {
         "": "60",
+        "Unnamed: 0": "60",
         "longitude": "-75.373",
         "latitude": "42.595",
         "code": "HUNT",
@@ -668,10 +789,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "SW",
-        "city": "New Berlin"
+        "city": "New Berlin",
+        "geometry": "POINT (-75.373 42.595)"
     },
     {
         "": "61",
+        "Unnamed: 0": "61",
         "longitude": "-72.629",
         "latitude": "40.927",
         "code": "INDI",
@@ -679,10 +802,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "E",
-        "city": "Riverhead"
+        "city": "Riverhead",
+        "geometry": "POINT (-72.629 40.927)"
     },
     {
         "": "62",
+        "Unnamed: 0": "62",
         "longitude": "-75.677",
         "latitude": "44.559",
         "code": "JACQ",
@@ -690,10 +815,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SW",
-        "city": "Morristown"
+        "city": "Morristown",
+        "geometry": "POINT (-75.677 44.559)"
     },
     {
         "": "63",
+        "Unnamed: 0": "63",
         "longitude": "-77.722",
         "latitude": "42.342",
         "code": "KANA",
@@ -701,10 +828,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "W",
-        "city": "Hornell"
+        "city": "Hornell",
+        "geometry": "POINT (-77.722 42.342)"
     },
     {
         "": "64",
+        "Unnamed: 0": "64",
         "longitude": "-75.93",
         "latitude": "44.324",
         "code": "KEEW",
@@ -712,10 +841,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "SW",
-        "city": "Alexandria Bay"
+        "city": "Alexandria Bay",
+        "geometry": "POINT (-75.93 44.324)"
     },
     {
         "": "65",
+        "Unnamed: 0": "65",
         "longitude": "-74.221",
         "latitude": "42.027",
         "code": "KENN",
@@ -723,10 +854,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "SE",
-        "city": "Mt.Tremper"
+        "city": "Mt.Tremper",
+        "geometry": "POINT (-74.221 42.027)"
     },
     {
         "": "66",
+        "Unnamed: 0": "66",
         "longitude": "-77.13",
         "latitude": "42.583",
         "code": "KEUK",
@@ -734,10 +867,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SW",
-        "city": "Bluff Point"
+        "city": "Bluff Point",
+        "geometry": "POINT (-77.13 42.583)"
     },
     {
         "": "67",
+        "Unnamed: 0": "67",
         "longitude": "-75.855",
         "latitude": "44.377",
         "code": "KRIN",
@@ -745,10 +880,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "NW",
-        "city": "Redwood"
+        "city": "Redwood",
+        "geometry": "POINT (-75.855 44.377)"
     },
     {
         "": "68",
+        "Unnamed: 0": "68",
         "longitude": "-74.389",
         "latitude": "43.838",
         "code": "LAKD",
@@ -756,10 +893,12 @@
         "state": "NY",
         "nearest_town_distance": "7",
         "nearest_town_bearing": "NW",
-        "city": "Indian Lake"
+        "city": "Indian Lake",
+        "geometry": "POINT (-74.389 43.838)"
     },
     {
         "": "69",
+        "Unnamed: 0": "69",
         "longitude": "-74.463",
         "latitude": "43.988",
         "code": "LAKE",
@@ -767,10 +906,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "NW",
-        "city": "Long Lake"
+        "city": "Long Lake",
+        "geometry": "POINT (-74.463 43.988)"
     },
     {
         "": "70",
+        "Unnamed: 0": "70",
         "longitude": "-79.429",
         "latitude": "42.421",
         "code": "LAKR",
@@ -778,10 +919,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "N",
-        "city": "Brocton"
+        "city": "Brocton",
+        "geometry": "POINT (-79.429 42.421)"
     },
     {
         "": "71",
+        "Unnamed: 0": "71",
         "longitude": "-73.712",
         "latitude": "43.414",
         "code": "LAKG",
@@ -789,10 +932,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "N",
-        "city": "Lake George Vi"
+        "city": "Lake George Vi",
+        "geometry": "POINT (-73.712 43.414)"
     },
     {
         "": "72",
+        "Unnamed: 0": "72",
         "longitude": "-74.13",
         "latitude": "43.979",
         "code": "LAKH",
@@ -800,10 +945,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "E",
-        "city": "Newcomb"
+        "city": "Newcomb",
+        "geometry": "POINT (-74.13 43.979)"
     },
     {
         "": "73",
+        "Unnamed: 0": "73",
         "longitude": "-73.708",
         "latitude": "42.094",
         "code": "LAKT",
@@ -811,10 +958,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "NW",
-        "city": "Ancram"
+        "city": "Ancram",
+        "geometry": "POINT (-73.708 42.094)"
     },
     {
         "": "74",
+        "Unnamed: 0": "74",
         "longitude": "-78.244",
         "latitude": "43.366",
         "code": "LAKB",
@@ -822,10 +971,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "N",
-        "city": "Waterport"
+        "city": "Waterport",
+        "geometry": "POINT (-78.244 43.366)"
     },
     {
         "": "75",
+        "Unnamed: 0": "75",
         "longitude": "-78.045",
         "latitude": "42.584",
         "code": "LETC",
@@ -833,10 +984,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "S",
-        "city": "Castile"
+        "city": "Castile",
+        "geometry": "POINT (-78.045 42.584)"
     },
     {
         "": "76",
+        "Unnamed: 0": "76",
         "longitude": "-74.394",
         "latitude": "43.651",
         "code": "LEWE",
@@ -844,10 +997,12 @@
         "state": "NY",
         "nearest_town_distance": "11",
         "nearest_town_bearing": "SW",
-        "city": "Indian Lake"
+        "city": "Indian Lake",
+        "geometry": "POINT (-74.394 43.651)"
     },
     {
         "": "77",
+        "Unnamed: 0": "77",
         "longitude": "-74.796",
         "latitude": "43.718",
         "code": "LIME",
@@ -855,10 +1010,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "S",
-        "city": "Inlet"
+        "city": "Inlet",
+        "geometry": "POINT (-74.796 43.718)"
     },
     {
         "": "78",
+        "Unnamed: 0": "78",
         "longitude": "-73.579",
         "latitude": "44.139",
         "code": "LINC",
@@ -866,10 +1023,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SE",
-        "city": "New Russia"
+        "city": "New Russia",
+        "geometry": "POINT (-73.579 44.139)"
     },
     {
         "": "79",
+        "Unnamed: 0": "79",
         "longitude": "-74.735",
         "latitude": "42.036",
         "code": "LITP",
@@ -877,10 +1036,12 @@
         "state": "NY",
         "nearest_town_distance": "9",
         "nearest_town_bearing": "SW",
-        "city": "Margaretville"
+        "city": "Margaretville",
+        "geometry": "POINT (-74.735 42.036)"
     },
     {
         "": "80",
+        "Unnamed: 0": "80",
         "longitude": "-74.551",
         "latitude": "43.417",
         "code": "LITS",
@@ -888,10 +1049,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SW",
-        "city": "Piseco"
+        "city": "Piseco",
+        "geometry": "POINT (-74.551 43.417)"
     },
     {
         "": "81",
+        "Unnamed: 0": "81",
         "longitude": "-76.221",
         "latitude": "44.026",
         "code": "LONG",
@@ -899,10 +1062,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "S",
-        "city": "Three Mile Bay"
+        "city": "Three Mile Bay",
+        "geometry": "POINT (-76.221 44.026)"
     },
     {
         "": "82",
+        "Unnamed: 0": "82",
         "longitude": "-73.826",
         "latitude": "43.361",
         "code": "LUZE",
@@ -910,10 +1075,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "N",
-        "city": "Lake Luzerne"
+        "city": "Lake Luzerne",
+        "geometry": "POINT (-73.826 43.361)"
     },
     {
         "": "83",
+        "Unnamed: 0": "83",
         "longitude": "-73.616",
         "latitude": "44.616",
         "code": "MACO",
@@ -921,10 +1088,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "W",
-        "city": "Schuyler Falls"
+        "city": "Schuyler Falls",
+        "geometry": "POINT (-73.616 44.616)"
     },
     {
         "": "84",
+        "Unnamed: 0": "84",
         "longitude": "-73.932",
         "latitude": "41.84",
         "code": "MARG",
@@ -932,10 +1101,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "S",
-        "city": "Staatsburg"
+        "city": "Staatsburg",
+        "geometry": "POINT (-73.932 41.84)"
     },
     {
         "": "85",
+        "Unnamed: 0": "85",
         "longitude": "-74.411",
         "latitude": "42.547",
         "code": "MAX",
@@ -943,10 +1114,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SW",
-        "city": "Fultonham"
+        "city": "Fultonham",
+        "geometry": "POINT (-74.411 42.547)"
     },
     {
         "": "86",
+        "Unnamed: 0": "86",
         "longitude": "-72.373",
         "latitude": "41.104",
         "code": "MCCA",
@@ -954,10 +1127,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "W",
-        "city": "Greenport"
+        "city": "Greenport",
+        "geometry": "POINT (-72.373 41.104)"
     },
     {
         "": "87",
+        "Unnamed: 0": "87",
         "longitude": "-74.287",
         "latitude": "44.578",
         "code": "MEAC",
@@ -965,10 +1140,12 @@
         "state": "NY",
         "nearest_town_distance": "19",
         "nearest_town_bearing": "S",
-        "city": "Malone"
+        "city": "Malone",
+        "geometry": "POINT (-74.287 44.578)"
     },
     {
         "": "88",
+        "Unnamed: 0": "88",
         "longitude": "-74.399",
         "latitude": "43.493",
         "code": "MOFF",
@@ -976,10 +1153,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "W",
-        "city": "Speculator"
+        "city": "Speculator",
+        "geometry": "POINT (-74.399 43.493)"
     },
     {
         "": "89",
+        "Unnamed: 0": "89",
         "longitude": "-74.691",
         "latitude": "41.957",
         "code": "MONG",
@@ -987,10 +1166,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "NE",
-        "city": "DeBruce"
+        "city": "DeBruce",
+        "geometry": "POINT (-74.691 41.957)"
     },
     {
         "": "90",
+        "Unnamed: 0": "90",
         "longitude": "-76.852",
         "latitude": "42.354",
         "code": "MONT",
@@ -998,10 +1179,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "NW",
-        "city": "Montour Falls"
+        "city": "Montour Falls",
+        "geometry": "POINT (-76.852 42.354)"
     },
     {
         "": "91",
+        "Unnamed: 0": "91",
         "longitude": "-73.707",
         "latitude": "43.227",
         "code": "MORE",
@@ -1009,10 +1192,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "NW",
-        "city": "Gansevoort"
+        "city": "Gansevoort",
+        "geometry": "POINT (-73.707 43.227)"
     },
     {
         "": "92",
+        "Unnamed: 0": "92",
         "longitude": "-74.652",
         "latitude": "41.748",
         "code": "MORN",
@@ -1020,10 +1205,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "NW",
-        "city": "South Fallsburg"
+        "city": "South Fallsburg",
+        "geometry": "POINT (-74.652 41.748)"
     },
     {
         "": "93",
+        "Unnamed: 0": "93",
         "longitude": "-73.569",
         "latitude": "41.309",
         "code": "MOUL",
@@ -1031,10 +1218,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "S",
-        "city": "North Salem"
+        "city": "North Salem",
+        "geometry": "POINT (-73.569 41.309)"
     },
     {
         "": "94",
+        "Unnamed: 0": "94",
         "longitude": "-74.518",
         "latitude": "41.699",
         "code": "MOUN",
@@ -1042,10 +1231,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "NE",
-        "city": "Mountain Dale"
+        "city": "Mountain Dale",
+        "geometry": "POINT (-74.518 41.699)"
     },
     {
         "": "95",
+        "Unnamed: 0": "95",
         "longitude": "-76.734",
         "latitude": "42.044",
         "code": "NEWT",
@@ -1053,10 +1244,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "SE",
-        "city": "Elmira"
+        "city": "Elmira",
+        "geometry": "POINT (-76.734 42.044)"
     },
     {
         "": "96",
+        "Unnamed: 0": "96",
         "longitude": "-74.982",
         "latitude": "43.688",
         "code": "NICK",
@@ -1064,10 +1257,12 @@
         "state": "NY",
         "nearest_town_distance": "9",
         "nearest_town_bearing": "S",
-        "city": "Webb"
+        "city": "Webb",
+        "geometry": "POINT (-74.982 43.688)"
     },
     {
         "": "97",
+        "Unnamed: 0": "97",
         "longitude": "-74.037",
         "latitude": "42.203",
         "code": "NORS",
@@ -1075,10 +1270,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "E",
-        "city": "Haines Falls"
+        "city": "Haines Falls",
+        "geometry": "POINT (-74.037 42.203)"
     },
     {
         "": "98",
+        "Unnamed: 0": "98",
         "longitude": "-74.18",
         "latitude": "43.187",
         "code": "NORT",
@@ -1086,10 +1283,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "S",
-        "city": "Northville"
+        "city": "Northville",
+        "geometry": "POINT (-74.18 43.187)"
     },
     {
         "": "99",
+        "Unnamed: 0": "99",
         "longitude": "-76.109",
         "latitude": "43.218",
         "code": "ONEI",
@@ -1097,10 +1296,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SE",
-        "city": "Brewereton"
+        "city": "Brewereton",
+        "geometry": "POINT (-76.109 43.218)"
     },
     {
         "": "100",
+        "Unnamed: 0": "100",
         "longitude": "-77.407",
         "latitude": "42.71",
         "code": "ONTA",
@@ -1108,10 +1309,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "N",
-        "city": "Naples"
+        "city": "Naples",
+        "geometry": "POINT (-77.407 42.71)"
     },
     {
         "": "101",
+        "Unnamed: 0": "101",
         "longitude": "-75.418",
         "latitude": "42.181",
         "code": "OQUA",
@@ -1119,10 +1322,12 @@
         "state": "NY",
         "nearest_town_distance": "8",
         "nearest_town_bearing": "S",
-        "city": "Bainbridge"
+        "city": "Bainbridge",
+        "geometry": "POINT (-75.418 42.181)"
     },
     {
         "": "102",
+        "Unnamed: 0": "102",
         "longitude": "-73.679",
         "latitude": "43.885",
         "code": "PARA",
@@ -1130,10 +1335,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "W",
-        "city": "Paradox"
+        "city": "Paradox",
+        "geometry": "POINT (-73.679 43.885)"
     },
     {
         "": "103",
+        "Unnamed: 0": "103",
         "longitude": "-76.667",
         "latitude": "42.232",
         "code": "PARK",
@@ -1141,10 +1348,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "N",
-        "city": "Erin"
+        "city": "Erin",
+        "geometry": "POINT (-76.667 42.232)"
     },
     {
         "": "104",
+        "Unnamed: 0": "104",
         "longitude": "-75.344",
         "latitude": "43.403",
         "code": "PIXL",
@@ -1152,10 +1361,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "S",
-        "city": "Boonville"
+        "city": "Boonville",
+        "geometry": "POINT (-75.344 43.403)"
     },
     {
         "": "105",
+        "Unnamed: 0": "105",
         "longitude": "-74.582",
         "latitude": "43.399",
         "code": "POIN",
@@ -1163,10 +1374,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "SW",
-        "city": "Piseco"
+        "city": "Piseco",
+        "geometry": "POINT (-74.582 43.399)"
     },
     {
         "": "106",
+        "Unnamed: 0": "106",
         "longitude": "-73.503",
         "latitude": "44.404",
         "code": "POKE",
@@ -1174,10 +1387,12 @@
         "state": "NY",
         "nearest_town_distance": "41",
         "nearest_town_bearing": "N",
-        "city": "Schroon Lake"
+        "city": "Schroon Lake",
+        "geometry": "POINT (-73.503 44.404)"
     },
     {
         "": "107",
+        "Unnamed: 0": "107",
         "longitude": "-74.54",
         "latitude": "43.428",
         "code": "POPL",
@@ -1185,10 +1400,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "SW",
-        "city": "Piseco"
+        "city": "Piseco",
+        "geometry": "POINT (-74.54 43.428)"
     },
     {
         "": "108",
+        "Unnamed: 0": "108",
         "longitude": "-73.571",
         "latitude": "43.838",
         "code": "PUTN",
@@ -1196,10 +1413,12 @@
         "state": "NY",
         "nearest_town_distance": "7",
         "nearest_town_bearing": "W",
-        "city": "Ticonderoga"
+        "city": "Ticonderoga",
+        "geometry": "POINT (-73.571 43.838)"
     },
     {
         "": "109",
+        "Unnamed: 0": "109",
         "longitude": "-78.747",
         "latitude": "42.097",
         "code": "REDH",
@@ -1207,10 +1426,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "S",
-        "city": "Salamanca"
+        "city": "Salamanca",
+        "geometry": "POINT (-78.747 42.097)"
     },
     {
         "": "110",
+        "Unnamed: 0": "110",
         "longitude": "-75.75",
         "latitude": "44.035",
         "code": "REMI",
@@ -1218,10 +1439,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "SE",
-        "city": "Fort Drum"
+        "city": "Fort Drum",
+        "geometry": "POINT (-75.75 44.035)"
     },
     {
         "": "111",
+        "Unnamed: 0": "111",
         "longitude": "-76.546",
         "latitude": "42.398",
         "code": "ROBH",
@@ -1229,10 +1452,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "SW",
-        "city": "Ithaca"
+        "city": "Ithaca",
+        "geometry": "POINT (-76.546 42.398)"
     },
     {
         "": "112",
+        "Unnamed: 0": "112",
         "longitude": "-74.87",
         "latitude": "44.986",
         "code": "ROBM",
@@ -1240,10 +1465,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "N",
-        "city": "Massena"
+        "city": "Massena",
+        "geometry": "POINT (-74.87 44.986)"
     },
     {
         "": "113",
+        "Unnamed: 0": "113",
         "longitude": "-73.488",
         "latitude": "43.789",
         "code": "ROGE",
@@ -1251,10 +1478,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "SW",
-        "city": "Ticonderoga"
+        "city": "Ticonderoga",
+        "geometry": "POINT (-73.488 43.789)"
     },
     {
         "": "114",
+        "Unnamed: 0": "114",
         "longitude": "-74.407",
         "latitude": "44.307",
         "code": "ROLL",
@@ -1262,10 +1491,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "NE",
-        "city": "Tupper Lake"
+        "city": "Tupper Lake",
+        "geometry": "POINT (-74.407 44.307)"
     },
     {
         "": "115",
+        "Unnamed: 0": "115",
         "longitude": "-74.027",
         "latitude": "41.378",
         "code": "ROUN",
@@ -1273,10 +1504,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "S",
-        "city": "Cornwall"
+        "city": "Cornwall",
+        "geometry": "POINT (-74.027 41.378)"
     },
     {
         "": "116",
+        "Unnamed: 0": "116",
         "longitude": "-73.508",
         "latitude": "41.983",
         "code": "RUDD",
@@ -1284,10 +1517,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "N",
-        "city": "Millerton"
+        "city": "Millerton",
+        "geometry": "POINT (-73.508 41.983)"
     },
     {
         "": "117",
+        "Unnamed: 0": "117",
         "longitude": "-74.294",
         "latitude": "43.36",
         "code": "SACA",
@@ -1295,10 +1530,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "S",
-        "city": "Wells"
+        "city": "Wells",
+        "geometry": "POINT (-74.294 43.36)"
     },
     {
         "": "118",
+        "Unnamed: 0": "118",
         "longitude": "-76.902",
         "latitude": "42.724",
         "code": "SAMP",
@@ -1306,10 +1543,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "SW",
-        "city": "Romulus"
+        "city": "Romulus",
+        "geometry": "POINT (-76.902 42.724)"
     },
     {
         "": "119",
+        "Unnamed: 0": "119",
         "longitude": "-72.555",
         "latitude": "40.888",
         "code": "SEAR",
@@ -1317,10 +1556,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "NW",
-        "city": "Hampton Bays"
+        "city": "Hampton Bays",
+        "geometry": "POINT (-72.555 40.888)"
     },
     {
         "": "120",
+        "Unnamed: 0": "120",
         "longitude": "-76.204",
         "latitude": "43.557",
         "code": "SELK",
@@ -1328,10 +1569,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "W",
-        "city": "Pulaski"
+        "city": "Pulaski",
+        "geometry": "POINT (-76.204 43.557)"
     },
     {
         "": "121",
+        "Unnamed: 0": "121",
         "longitude": "-73.678",
         "latitude": "44.043",
         "code": "SHAR",
@@ -1339,10 +1582,12 @@
         "state": "NY",
         "nearest_town_distance": "7",
         "nearest_town_bearing": "N",
-        "city": "North Hudson"
+        "city": "North Hudson",
+        "geometry": "POINT (-73.678 44.043)"
     },
     {
         "": "122",
+        "Unnamed: 0": "122",
         "longitude": "-79.269",
         "latitude": "42.519",
         "code": "SHER",
@@ -1350,10 +1595,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "NW",
-        "city": "Sheridan"
+        "city": "Sheridan",
+        "geometry": "POINT (-79.269 42.519)"
     },
     {
         "": "123",
+        "Unnamed: 0": "123",
         "longitude": "-72.472",
         "latitude": "40.842",
         "code": "SHIN",
@@ -1361,10 +1608,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "SW",
-        "city": "Southampton"
+        "city": "Southampton",
+        "geometry": "POINT (-72.472 40.842)"
     },
     {
         "": "124",
+        "Unnamed: 0": "124",
         "longitude": "-76.886",
         "latitude": "42.492",
         "code": "SMIT",
@@ -1372,10 +1621,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "SW",
-        "city": "Hector"
+        "city": "Hector",
+        "geometry": "POINT (-76.886 42.492)"
     },
     {
         "": "125",
+        "Unnamed: 0": "125",
         "longitude": "-76.196",
         "latitude": "43.765",
         "code": "SOUT",
@@ -1383,10 +1634,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "S",
-        "city": "Henderson"
+        "city": "Henderson",
+        "geometry": "POINT (-76.196 43.765)"
     },
     {
         "": "126",
+        "Unnamed: 0": "126",
         "longitude": "-78.636",
         "latitude": "42.592",
         "code": "SPRA",
@@ -1394,10 +1647,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "SE",
-        "city": "Glenwood"
+        "city": "Glenwood",
+        "geometry": "POINT (-78.636 42.592)"
     },
     {
         "": "127",
+        "Unnamed: 0": "127",
         "longitude": "-74.678",
         "latitude": "42.995",
         "code": "STJO",
@@ -1405,10 +1660,12 @@
         "state": "NY",
         "nearest_town_distance": "0",
         "nearest_town_bearing": "S",
-        "city": "St Johnsville"
+        "city": "St Johnsville",
+        "geometry": "POINT (-74.678 42.995)"
     },
     {
         "": "128",
+        "Unnamed: 0": "128",
         "longitude": "-77.697",
         "latitude": "42.526",
         "code": "STON",
@@ -1416,10 +1673,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "S",
-        "city": "Dansville"
+        "city": "Dansville",
+        "geometry": "POINT (-77.697 42.526)"
     },
     {
         "": "129",
+        "Unnamed: 0": "129",
         "longitude": "-76.607",
         "latitude": "42.54",
         "code": "TAUG",
@@ -1427,10 +1686,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "E",
-        "city": "Trumansburg"
+        "city": "Trumansburg",
+        "geometry": "POINT (-76.607 42.54)"
     },
     {
         "": "130",
+        "Unnamed: 0": "130",
         "longitude": "-73.824",
         "latitude": "44.494",
         "code": "TAYL",
@@ -1438,10 +1699,12 @@
         "state": "NY",
         "nearest_town_distance": "8",
         "nearest_town_bearing": "NW",
-        "city": "Au Sable Forks"
+        "city": "Au Sable Forks",
+        "geometry": "POINT (-73.824 44.494)"
     },
     {
         "": "131",
+        "Unnamed: 0": "131",
         "longitude": "-71.901",
         "latitude": "41.056",
         "code": "THEO",
@@ -1449,10 +1712,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "NE",
-        "city": "Montauk"
+        "city": "Montauk",
+        "geometry": "POINT (-71.901 41.056)"
     },
     {
         "": "132",
+        "Unnamed: 0": "132",
         "longitude": "-74.046",
         "latitude": "42.653",
         "code": "THOM",
@@ -1460,10 +1725,12 @@
         "state": "NY",
         "nearest_town_distance": "3",
         "nearest_town_bearing": "NE",
-        "city": "East Berne"
+        "city": "East Berne",
+        "geometry": "POINT (-74.046 42.653)"
     },
     {
         "": "133",
+        "Unnamed: 0": "133",
         "longitude": "-75.963",
         "latitude": "42.398",
         "code": "UPPL",
@@ -1471,10 +1738,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "N",
-        "city": "Whitney Point"
+        "city": "Whitney Point",
+        "geometry": "POINT (-75.963 42.398)"
     },
     {
         "": "134",
+        "Unnamed: 0": "134",
         "longitude": "-75.725",
         "latitude": "43.178",
         "code": "VERO",
@@ -1482,10 +1751,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "S",
-        "city": "Verona Beach"
+        "city": "Verona Beach",
+        "geometry": "POINT (-75.725 43.178)"
     },
     {
         "": "135",
+        "Unnamed: 0": "135",
         "longitude": "-73.584",
         "latitude": "41.255",
         "code": "WARD",
@@ -1493,10 +1764,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "E",
-        "city": "Katonah"
+        "city": "Katonah",
+        "geometry": "POINT (-73.584 41.255)"
     },
     {
         "": "136",
+        "Unnamed: 0": "136",
         "longitude": "-76.881",
         "latitude": "42.37",
         "code": "WATK",
@@ -1504,10 +1777,12 @@
         "state": "NY",
         "nearest_town_distance": "1",
         "nearest_town_bearing": "SW",
-        "city": "Watkins Glen"
+        "city": "Watkins Glen",
+        "geometry": "POINT (-76.881 42.37)"
     },
     {
         "": "137",
+        "Unnamed: 0": "137",
         "longitude": "-77.46",
         "latitude": "43.258",
         "code": "WEBS",
@@ -1515,10 +1790,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "NW",
-        "city": "Webster"
+        "city": "Webster",
+        "geometry": "POINT (-77.46 43.258)"
     },
     {
         "": "138",
+        "Unnamed: 0": "138",
         "longitude": "-76.019",
         "latitude": "44.316",
         "code": "WELL",
@@ -1526,10 +1803,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "N",
-        "city": "Fineview"
+        "city": "Fineview",
+        "geometry": "POINT (-76.019 44.316)"
     },
     {
         "": "139",
+        "Unnamed: 0": "139",
         "longitude": "-76.114",
         "latitude": "43.897",
         "code": "WEST",
@@ -1537,10 +1816,12 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "NE",
-        "city": "Henderson"
+        "city": "Henderson",
+        "geometry": "POINT (-76.114 43.897)"
     },
     {
         "": "140",
+        "Unnamed: 0": "140",
         "longitude": "-75.462",
         "latitude": "43.702",
         "code": "WHET",
@@ -1548,10 +1829,12 @@
         "state": "NY",
         "nearest_town_distance": "6",
         "nearest_town_bearing": "S",
-        "city": "Lowville"
+        "city": "Lowville",
+        "geometry": "POINT (-75.462 43.702)"
     },
     {
         "": "141",
+        "Unnamed: 0": "141",
         "longitude": "-73.724",
         "latitude": "41.953",
         "code": "WILC",
@@ -1559,10 +1842,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "E",
-        "city": "Milan"
+        "city": "Milan",
+        "geometry": "POINT (-73.724 41.953)"
     },
     {
         "": "142",
+        "Unnamed: 0": "142",
         "longitude": "-72.805",
         "latitude": "40.963",
         "code": "WILD",
@@ -1570,10 +1855,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "NE",
-        "city": "Wading River"
+        "city": "Wading River",
+        "geometry": "POINT (-72.805 40.963)"
     },
     {
         "": "143",
+        "Unnamed: 0": "143",
         "longitude": "-73.861",
         "latitude": "44.35",
         "code": "WILM",
@@ -1581,10 +1868,12 @@
         "state": "NY",
         "nearest_town_distance": "4",
         "nearest_town_bearing": "SW",
-        "city": "Wilmington"
+        "city": "Wilmington",
+        "geometry": "POINT (-73.861 44.35)"
     },
     {
         "": "144",
+        "Unnamed: 0": "144",
         "longitude": "-74.273",
         "latitude": "41.537",
         "code": "WIND",
@@ -1592,10 +1881,12 @@
         "state": "NY",
         "nearest_town_distance": "2",
         "nearest_town_bearing": "W",
-        "city": "Montgomery"
+        "city": "Montgomery",
+        "geometry": "POINT (-74.273 41.537)"
     },
     {
         "": "145",
+        "Unnamed: 0": "145",
         "longitude": "-74.37",
         "latitude": "42.033",
         "code": "WOOD",
@@ -1603,6 +1894,7 @@
         "state": "NY",
         "nearest_town_distance": "5",
         "nearest_town_bearing": "SW",
-        "city": "Phoenicia"
+        "city": "Phoenicia",
+        "geometry": "POINT (-74.37 42.033)"
     }
 ]

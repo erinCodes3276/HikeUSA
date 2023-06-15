@@ -1,0 +1,25 @@
+import csv
+import json
+
+campsites = 'static/clean_camps.csv'
+trails = 'static/clean_trails.csv'
+trails_js = 'trails.json'
+camp_js = 'camps.json'
+
+camp_data = []
+trail_data = []
+with open(campsites, 'r') as csvfile:
+    csvreader = csv.DictReader(csvfile)
+    for row in csvreader:
+        camp_data.append(row)
+
+with open(camp_js, 'w') as jsonfile:
+    jsonfile.write(json.dumps(camp_data, indent=4))
+
+with open(trails, 'r') as csvfile:
+    csvreader = csv.DictReader(csvfile)
+    for row in csvreader:
+        trail_data.append(row)
+
+with open(trails_js, 'w') as jsonfile:
+    jsonfile.write(json.dumps(trail_data, indent=4))

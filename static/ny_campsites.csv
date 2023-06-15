@@ -1,0 +1,147 @@
+Unnamed: 0,longitude,latitude,code,name,state,nearest_town_distance,nearest_town_bearing,city,cluster
+0,-73.423,44.568,AUSA,Ausable Point  - DEC,NY,5,E,Peru,0
+1,-76.807,42.485,BACK,Backbone Horse Camp,NY,5,NE,Burdett,0
+2,-73.449,40.762,BATT,Battle Row,NY,0,E,Old Bethpage,0
+3,-75.069,42.118,BEAR,Bear Spring Mountain - DEC,NY,5,SE,Walton,0
+4,-74.07,41.229,BEVP,Beaver Pond - Harriman State Park,NY,4,W,Stony Point,0
+5,-74.839,41.979,BEVK,Beaverkill - DEC,NY,5,NE,Roscoe,0
+6,-73.925,41.27,BLUE,Blue Mountain Reservation,NY,1,S,Peekskill,0
+7,-76.799,42.484,BLUB,Blueberry Patch,NY,5,NE,Burdett,0
+8,-73.222,40.825,BLYD,Blydenburgh Park,NY,2,SW,Smithtown,0
+9,-75.68,42.522,BOWM,Bowman Lake State Park,NY,7,NW,Oxford,0
+10,-74.118,44.505,BUCK,Buck Pond - DEC,NY,6,NE,Gabriels,0
+11,-76.265,44.163,BURN,Burnham Point State Park,NY,4,NE,Cape Vincent,0
+12,-76.521,42.416,BUTT,Buttermilk Falls State Park,NY,2,SW,Ithaca,0
+13,-78.846,42.037,CAIN,Cain Hollow (Quaker Area) - Allegany State Park,NY,11,SW,Salamanca,0
+14,-74.468,43.125,CARO,Caroga Lake - DEC,NY,10,NW,Johnstown,0
+15,-72.943,40.87,CATH,Cathedral Pines County Park,NY,1,S,Middle Island,0
+16,-76.753,42.896,CAYU,Cayuga Lake State Park,NY,2,SE,Seneca Falls,0
+17,-76.197,44.204,CEDP,Cedar Point State Park,NY,6,SW,Clayton,0
+18,-72.226,41.028,CEDS,Cedar Point Suffolk County Park,NY,5,NW,East Hampton,0
+19,-75.818,42.215,CHEN,Chenango Valley State Park,NY,2,SE,Chenango Forks,0
+20,-73.41,42.622,CHER,Cherry Plain State Park,NY,3,W,Cherry Plain,0
+21,-73.831,41.461,CLAR,Clarence Fahnestock State Park,NY,8,W,Carmel,0
+22,-76.86,42.384,CLUT,Clute Memorial Park,NY,1,E,Watkins Glen,0
+23,-75.14,44.892,COLE,Coles Creek State Park,NY,4,NE,Waddington,0
+24,-75.743,42.3,COOK,Cook County Park,NY,2,SE,Greene,0
+25,-73.52,42.121,COPA,Copake Falls - Taconic State Park,NY,0,E,Copake Falls,0
+26,-74.821,44.197,CRAN,Cranberry Lake  - DEC,NY,2,SE,Cranberry Lake,0
+27,-73.896,41.178,CROT,Croton Point Park,NY,2,S,Croton-on-Huds,0
+28,-73.425,44.025,CROW,Crown Point - DEC,NY,5,N,Crown Point,0
+29,-73.426,44.725,CUMB,Cumberland Bay State Park,NY,2,NE,Plattsburg,0
+30,-72.738,40.771,CUPS,Cupsogue County Park,NY,5,SW,Westhampton,0
+31,-78.433,42.902,DARI,Darien Lakes State Park,NY,2,W,Darien Center,0
+32,-75.417,43.292,DELT,Delta Lake State Park,NY,6,N,Rome,0
+33,-74.208,42.151,DEVI,Devils Tombstone - DEC,NY,3,NE,Lanesville,0
+34,-75.997,44.33,DEWO,DeWolf Point State Park,NY,3,N,Fineview,0
+35,-73.793,43.748,EAGL,Eagle Point - DEC,NY,2,NE,Pottersville,0
+36,-75.223,42.327,EAST,East Sidney Dam Rec Area,NY,9,E,Sidney,0
+37,-75.477,44.63,EELW,Eel Weir State Park,NY,4,S,Ogdensburg,0
+38,-74.712,43.763,EIGH,Eighth Lake - DEC,NY,4,E,Inlet,0
+39,-79.115,42.602,EVAN,Evangola State Park,NY,2,N,Irving,0
+40,-76.689,43.343,FAIR,Fair Haven Beach State Park,NY,2,N,Fair Haven,0
+41,-76.42,42.7,FILL,Fillmore Glen State Park,NY,1,S,Moravia,0
+42,-74.365,44.308,FISH,Fish Creek Pond - DEC,NY,8,NE,Tupper Lake,0
+43,-73.889,40.582,FLOB,Floyd Bennett Field - Gateway National Rec Area,NY,6,SE,Brooklyn,0
+44,-74.525,43.905,FORK,Forked Lake - DEC,NY,7,SW,Long Lake,0
+45,-74.059,40.605,FORW,Fort Wadsworth - Gateway National Rec Area,NY,5,E,Staten Island,0
+46,-78.995,43.274,FOUR,Four Mile Creek State Park,NY,3,NE,Youngstown,0
+47,-75.128,42.573,GILB,Gilbert Lake State Park,NY,4,NW,Laurens,0
+48,-74.869,42.794,GLIM,Glimmerglass State Park,NY,7,NE,Cooperstown,0
+49,-74.592,43.817,GOLB,Golden Beach - DEC,NY,26,N,Piseco,0
+50,-78.483,43.374,GOLH,Golden Hill State Park,NY,5,NE,Barker,0
+51,-75.995,44.279,GRAS,Grass Point State Park,NY,6,SW,Alexandria Bay,0
+52,-76.005,43.056,GREE,Green Lakes State Park,NY,2,N,Fayetteville,0
+53,-76.086,42.288,GREW,Greenwood County Park,NY,16,NW,Binghamton,0
+54,-77.946,43.36,HAML,Hamlin Beach State Park,NY,4,N,Hamlin,0
+55,-76.831,42.337,HAVA,Havana Glen,NY,1,SE,Montour Falls,0
+56,-73.694,43.455,HEAR,Hearthstone Point - DEC,NY,9,N,Lake George Vi,0
+57,-76.226,42.091,HICK,Hickories Park,NY,2,SE,Owego,0
+58,-74.922,44.496,HIGL,Higley Flow State Park,NY,4,S,Colton,0
+59,-72.016,41.008,HITH,Hither Hills State Park,NY,4,SW,Montauk,0
+60,-75.373,42.595,HUNT,Hunts Pond,NY,3,SW,New Berlin,0
+61,-72.629,40.927,INDI,Indian Island Park,NY,2,E,Riverhead,0
+62,-75.677,44.559,JACQ,Jacques Cartier State Park,NY,2,SW,Morristown,0
+63,-77.722,42.342,KANA,Kanakadea Park - Almond Lake,NY,3,W,Hornell,0
+64,-75.93,44.324,KEEW,Keewaydin State Park,NY,1,SW,Alexandria Bay,0
+65,-74.221,42.027,KENN,Kenneth L. Wilson - DEC,NY,3,SE,Mt.Tremper,0
+66,-77.13,42.583,KEUK,Keuka Lake State Park,NY,2,SW,Bluff Point,0
+67,-75.855,44.377,KRIN,Kring Point State Park,NY,6,NW,Redwood,0
+68,-74.389,43.838,LAKD,Lake Durant - DEC,NY,7,NW,Indian Lake,0
+69,-74.463,43.988,LAKE,Lake Eaton - DEC,NY,2,NW,Long Lake,0
+70,-79.429,42.421,LAKR,Lake Erie State Park,NY,2,N,Brocton,0
+71,-73.712,43.414,LAKG,Lake George Battleground - DEC,NY,6,N,Lake George Vi,0
+72,-74.13,43.979,LAKH,Lake Harris - DEC,NY,2,E,Newcomb,0
+73,-73.708,42.094,LAKT,Lake Taghkanic State Park,NY,5,NW,Ancram,0
+74,-78.244,43.366,LAKB,Lakeside Beach State Park,NY,3,N,Waterport,0
+75,-78.045,42.584,LETC,Letchworth State Park,NY,3,S,Castile,0
+76,-74.394,43.651,LEWE,Lewey Lake - DEC,NY,11,SW,Indian Lake,0
+77,-74.796,43.718,LIME,Limekiln Lake - DEC,NY,2,S,Inlet,0
+78,-73.579,44.139,LINC,Lincoln Pond - DEC,NY,2,SE,New Russia,0
+79,-74.735,42.036,LITP,Little Pond - DEC,NY,9,SW,Margaretville,0
+80,-74.551,43.417,LITS,Little Sand Point - DEC,NY,2,SW,Piseco,0
+81,-76.221,44.026,LONG,Long Point State Park,NY,4,S,Three Mile Bay,0
+82,-73.826,43.361,LUZE,Luzerne - DEC,NY,3,N,Lake Luzerne,0
+83,-73.616,44.616,MACO,Macomb Reservation State Park,NY,3,W,Schuyler Falls,0
+84,-73.932,41.84,MARG,Margaret Norrie State Park,NY,1,S,Staatsburg,0
+85,-74.411,42.547,MAX,Max V Shaul State Park,NY,2,SW,Fultonham,0
+86,-72.373,41.104,MCCA,McCanns Campground,NY,1,W,Greenport,0
+87,-74.287,44.578,MEAC,Meacham Lake - DEC,NY,19,S,Malone,0
+89,-74.399,43.493,MOFF,Moffitt Beach - DEC,NY,2,W,Speculator,0
+90,-74.691,41.957,MONG,Mongaup Pond - DEC,NY,4,NE,DeBruce,0
+91,-76.852,42.354,MONT,Montour Marina,NY,1,NW,Montour Falls,0
+92,-73.707,43.227,MORE,Moreau Lake State Park,NY,4,NW,Gansevoort,0
+93,-74.652,41.748,MORN,Morningside Park,NY,2,NW,South Fallsburg,0
+94,-73.569,41.309,MOUL,Mountain Lakes Park,NY,2,S,North Salem,0
+95,-74.518,41.699,MOUN,Mountaindale Park,NY,1,NE,Mountain Dale,0
+96,-76.734,42.044,NEWT,Newtown Battlefield State Park,NY,5,SE,Elmira,0
+97,-74.982,43.688,NICK,Nicks Lake - DEC,NY,9,S,Webb,0
+98,-74.037,42.203,NORS,North/South Lake  - DEC,NY,3,E,Haines Falls,0
+99,-74.18,43.187,NORT,Northampton Beach - DEC,NY,3,S,Northville,0
+100,-76.109,43.218,ONEI,Oneida Shores County Park,NY,2,SE,Brewereton,0
+101,-77.407,42.71,ONTA,Ontario County Park - Gannet Hill,NY,6,N,Naples,0
+102,-75.418,42.181,OQUA,Oquaga Creek State Park,NY,8,S,Bainbridge,0
+103,-73.679,43.885,PARA,Paradox Lake - DEC,NY,2,W,Paradox,0
+104,-76.667,42.232,PARK,Park Station Rec Area,NY,3,N,Erin,0
+105,-75.344,43.403,PIXL,Pixley Falls State Park,NY,6,S,Boonville,0
+106,-74.582,43.399,POIN,Point Comfort - DEC,NY,4,SW,Piseco,0
+107,-73.503,44.404,POKE,Poke-O-Moonshine - DEC,NY,41,N,Schroon Lake,0
+108,-74.54,43.428,POPL,Poplar Point - DEC,NY,1,SW,Piseco,0
+109,-73.571,43.838,PUTN,Putnam Pond - DEC,NY,7,W,Ticonderoga,0
+110,-78.747,42.097,REDH,Red House - Allegany State Park,NY,4,S,Salamanca,0
+111,-75.75,44.035,REMI,Remington Park RV  Military - Fort Drum,NY,1,SE,Fort Drum,0
+112,-76.546,42.398,ROBH,Robert H. Treman State Park,NY,4,SW,Ithaca,0
+113,-74.87,44.986,ROBM,Robert Moses State Park,NY,4,N,Massena,0
+114,-73.488,43.789,ROGE,Rogers Rock - DEC,NY,5,SW,Ticonderoga,0
+115,-74.407,44.307,ROLL,Rollins Pond - DEC,NY,6,NE,Tupper Lake,0
+116,-74.027,41.378,ROUN,Round Pond Military,NY,4,S,Cornwall,0
+117,-73.508,41.983,RUDD,Rudd Pond - Taconic State Park,NY,2,N,Millerton,0
+118,-74.294,43.36,SACA,Sacandaga - DEC,NY,2,S,Wells,0
+119,-76.902,42.724,SAMP,Sampson State Park,NY,4,SW,Romulus,0
+120,-72.555,40.888,SEAR,Sears Bellows,NY,2,NW,Hampton Bays,0
+121,-76.204,43.557,SELK,Selkirk Shores State Park,NY,4,W,Pulaski,0
+122,-73.678,44.043,SHAR,Sharp Bridge - DEC,NY,7,N,North Hudson,0
+123,-79.269,42.519,SHER,Sheridan Bay Park,NY,3,NW,Sheridan,0
+124,-72.472,40.842,SHIN,Shinnecock East County Park,NY,5,SW,Southampton,0
+125,-76.886,42.492,SMIT,Smith Memorial Park,NY,1,SW,Hector,0
+128,-76.196,43.765,SOUT,Southwick Beach State Park,NY,6,S,Henderson,0
+129,-78.636,42.592,SPRA,Sprague Brook Park,NY,2,SE,Glenwood,0
+130,-74.678,42.995,STJO,St. Johnsville Campsite and Marina,NY,0,S,St Johnsville,0
+131,-77.697,42.526,STON,Stony Brook State Park,NY,2,S,Dansville,0
+132,-76.607,42.54,TAUG,Taughannock Falls State Park,NY,3,E,Trumansburg,0
+133,-73.824,44.494,TAYL,Taylor Pond - DEC,NY,8,NW,Au Sable Forks,0
+134,-71.901,41.056,THEO,Theodore Roosevelt County Park,NY,3,NE,Montauk,0
+135,-74.046,42.653,THOM,Thompsons Lake State Park,NY,3,NE,East Berne,0
+136,-75.963,42.398,UPPL,Upper Lisle,NY,5,N,Whitney Point,0
+137,-75.725,43.178,VERO,Verona Beach State Park,NY,1,S,Verona Beach,0
+138,-73.584,41.255,WARD,Ward Pound Ridge Reservation,NY,5,E,Katonah,0
+139,-76.881,42.37,WATK,Watkins Glen State Park,NY,1,SW,Watkins Glen,0
+140,-77.46,43.258,WEBS,Webster Park,NY,4,NW,Webster,0
+141,-76.019,44.316,WELL,Wellesley Island State Park,NY,2,N,Fineview,0
+142,-76.114,43.897,WEST,Westcott Beach State Park,NY,5,NE,Henderson,0
+143,-75.462,43.702,WHET,Whetstone Gulf State Park,NY,6,S,Lowville,0
+144,-73.724,41.953,WILC,Wilcox Memorial Park,NY,4,E,Milan,0
+145,-72.805,40.963,WILD,Wildwood State Park,NY,2,NE,Wading River,0
+146,-73.861,44.35,WILM,Wilmington Notch - DEC,NY,4,SW,Wilmington,0
+147,-74.273,41.537,WIND,Winding Hills Park,NY,2,W,Montgomery,0
+148,-74.37,42.033,WOOD,Woodland Valley - DEC,NY,5,SW,Phoenicia,0
